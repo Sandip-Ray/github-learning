@@ -1,2 +1,5 @@
 Day 1 :
 Learned how to create repo and push code to github
+
+Day 2 :
+Learning about branches in github
